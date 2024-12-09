@@ -1,8 +1,5 @@
 # Analyzing social media data with Python
 
-# Data analysis on commercial store
-
-
 <h2>ℹ️ Project info</h2>
 <div>
 
